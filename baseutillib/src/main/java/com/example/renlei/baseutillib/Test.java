@@ -12,4 +12,8 @@ public class Test {
     public void test(){
         Log.d("test","fdsjhlfkjd");
     }
+
+    public void test2test2(){
+        new Test2().test2();
+    }
 }
