@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseUtilLib</string>
+    <string name="base_util_lib_string">公共的string</string>
+</resources>
