@@ -10,6 +10,6 @@ import android.util.Log;
 
 public class Test3 {
     public void test(){
-        Log.d("test","fdsjhlfkjd");
+        new Test2().test2();
     }
 }

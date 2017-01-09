@@ -21,7 +21,10 @@
 -verbose
 -keep class com.example.renlei.baseutillib.SceneLogUtil{*;}
 -keep class com.example.renlei.baseutillib.Test
--keepclassmembers class com.example.renlei.baseutillib.Test2{
-    public void test2();
+-keepclassmembers class com.example.renlei.baseutillib.Test{
+    public void test2test2();
+}
+-keep class com.example.renlei.baseutillib.Test3{
+    public void test();
 }
 
