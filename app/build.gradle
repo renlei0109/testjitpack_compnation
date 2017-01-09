@@ -27,5 +27,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile project(':baseutillib')
     testCompile 'junit:junit:4.12'
-
+    compile 'com.github.renlei0109:testjitpack_compnation:1.1.4'
 }

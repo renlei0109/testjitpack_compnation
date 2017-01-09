@@ -16,4 +16,8 @@ public class SceneLogUtil {
 
             Log.d(TAG,s);
     }
+
+    private void test(){
+        Log.d(TAG,"SceneLogUtil");
+    }
 }

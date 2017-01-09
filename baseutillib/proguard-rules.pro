@@ -19,5 +19,9 @@
 -dontusemixedcaseclassnames
 -dontskipnonpubliclibraryclasses
 -verbose
--keep class com.example.renlei.baseutillib.**{*;}
+-keep class com.example.renlei.baseutillib.SceneLogUtil{*;}
+-keep class com.example.renlei.baseutillib.Test
+-keepclassmembers com.example.renlei.baseutillib.Test2{
+    public void test2();
+}
 
